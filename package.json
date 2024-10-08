@@ -2,10 +2,14 @@
   "name": "vitepress-project",
   "private": true,
   "type": "module",
+  "homepage": "https://vercel.com/drivesafs-projects/vue3-ts-docs",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "serve": "vitepress serve docs",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
     "vitepress": "1.0.0-alpha.28",

@@ -6,7 +6,7 @@ export default defineConfig({
     description: "关于springboot、vue3、微信小程序的学习笔记",
     themeConfig: {
         siteTitle: "前端学习",
-        logo: "/assets/logo.png",
+        logo: "https://first-buckt.oss-cn-nanjing.aliyuncs.com/img/%E6%9A%82%E6%97%A0%E8%AE%B0%E5%BD%95.png",
         nav:[
             {text:"首页",link:"/"},
             {text:"指南",link:"/guide/"},

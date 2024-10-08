@@ -6,7 +6,7 @@ hero:
   text: "springboot、vue3、微信小程序的学习笔记"
   tagline: "学而时习之"
   image:
-    src: /assets/logo.png
+    src: https://first-buckt.oss-cn-nanjing.aliyuncs.com/img/%E6%9A%82%E6%97%A0%E8%AE%B0%E5%BD%95.png
     alt: 代码学习仓库
   actions:
     - theme: brand

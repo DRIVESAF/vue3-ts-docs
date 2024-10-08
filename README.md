@@ -1,4 +1,4 @@
-**<p align="center">
+<p align="center">
   <img src="https://first-buckt.oss-cn-nanjing.aliyuncs.com/img/logo.png" style="width:200px;">
 </p>
 
@@ -18,4 +18,4 @@
 
 - 从头开始，循序渐进地学习
 - 从知识点总结到项目实战
-- 包含其他零碎的编码小tips**
+- 包含其他零碎的编码小tips
