@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://first-buckt.oss-cn-nanjing.aliyuncs.com/img/logo.png" style="width:200px;">
+  <img src="https://first-buckt.oss-cn-nanjing.aliyuncs.com/img/%E6%9A%82%E6%97%A0%E8%AE%B0%E5%BD%95.png" style="width:200px;">
 </p>
 
 <h1 align="center">代码学习仓库</h1>
