@@ -19,12 +19,26 @@ export default defineConfig({
             {icon: "github",link:"https://github.com/DRIVESAF/vue3-ts-docs"}
         ],
         sidebar:{
-            "/guide/": [
+            "/springboot/": [
                 {
                     text: "开始",
                     collapsed: true,
                     items:[
-                        {text: "介绍",link: "/guide/"}
+                        {text: "介绍",link: "/springboot/"},
+                        {text: "SpringBoot与IDEA",link: "/springboot/text1.md"},
+                        {text: "跟踪调试与日志管理",link: "/springboot/text2.md"}
+                    ]
+                }
+            ],
+            "/vue3/": [
+                {
+                    text: "开始",
+                    collapsed: true,
+                    items:[
+                        {text: "介绍",link: "/vue3/"},
+                        {text: "前端发展的几个时代",link: "/vue3/text1.md"},
+                        {text: "前端的三驾马车",link: "/vue3/text3.md"},
+                        {text: "新时代的 JavaScript",link: "/vue3/text2.md"}
                     ]
                 }
             ]
